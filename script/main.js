@@ -273,7 +273,7 @@ const animationTimeline = () => {
         opacity: 0,
         scale: 80,
         repeat: 3,
-        repeatDelay: 2.0
+        repeatDelay: 2.5
       },
       0.3
     )
